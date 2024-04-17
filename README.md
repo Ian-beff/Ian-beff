@@ -5,5 +5,4 @@
 
 ## Sobre mi
 
-- 🔭 I’m a student of the Sabadell Institute (https://agora.xtec.cat/ies-sabadell/)  ...
--->
+- 🔭 I’m a student of the Sabadell Institute (https://agora.xtec.cat/ies-sabadell/)
