@@ -5,4 +5,4 @@
 
 ## Sobre mi
 
-- 🔭 I’m a student of the Sabadell Institute (https://agora.xtec.cat/ies-sabadell/)
+-🖥️  I’m a student of the Sabadell Institute (https://agora.xtec.cat/ies-sabadell/) and I am very interested in network and systems administration, but I also have knowledge of Python programming 🧑🏻‍💻. 
